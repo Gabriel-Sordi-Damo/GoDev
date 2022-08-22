@@ -6,6 +6,7 @@
 ``
 CREATE DATABASE godev; 
 ``
+ - [ ] Install the Java\Maven Dependencies
  - [ ] Ensure that 
 
 > spring.datasource.username=postgres <br>
